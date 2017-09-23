@@ -3,6 +3,8 @@ PHP &amp; MongoDB: Very Simple Add, Edit, Delete, View (CRUD)
 
 A simple and basic CRUD application (Create, Read, Update, Delete) using PHP & MongoDB database.
 
+**Blog:** [PHP & MongoDB: Very Simple Add, Edit, Delete, View (CRUD)](http://blog.chapagain.com.np/php-mongodb-very-simple-add-edit-delete-view-crud-beginner-tutorial/)
+
 **Start MongoDB server**
 
 ```
